@@ -6,7 +6,6 @@ I enjoy working across the full data pipeline, from data cleaning and transforma
 
 Outside of tech, I enjoy basketball, table tennis, Pokémon and board games. I like thinking in structured, strategic ways, whether that’s solving problems with data or playing competitive games.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +19,6 @@ Outside of tech, I enjoy basketball, table tennis, Pokémon and board games. I l
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
 
 ## 📌 Focus Areas
 
